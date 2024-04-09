@@ -17,10 +17,9 @@ The Iroh Document Collaboration Tool is a simple, decentralized application buil
 
 Before you start, ensure you have Python installed on your system. Then, follow these steps to set up the Iroh Document Collaboration Tool:
 
-<!-- 1. **Clone the Repository** (assuming the project is hosted on a platform like GitHub):
-   ```bash
-   git clone https://github.com/yourusername/iroh-collaboration-tool.git
-   cd iroh-collaboration-tool -->
+1. **Clone the Repository**:
+   git clone https://github.com/alexjmiller5/iroh-test-app.git.
+   cd iroh-test-app/Python
 1. **Install Dependencies**:
 Ensure the iroh package and any other dependencies are properly installed. Installation instructions for the iroh package are located [here](https://github.com/n0-computer/iroh-ffi/blob/main/README.md).
 
