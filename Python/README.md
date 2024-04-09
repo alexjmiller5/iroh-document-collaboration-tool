@@ -46,6 +46,7 @@ Once inside a document session, the following commands are available:
 
 - **Edit**: Enter `edit` to modify the document. You will be prompted to enter a key (identifier for a piece of content) and its corresponding content.
 - **Sync**: Enter `sync` to synchronize changes with other collaborators. This command displays the latest content of the document.
+- **View**: Enter view to display the current content of the document without editing or syncing. This is useful for quickly checking the document's state.
 - **Exit**: Enter `exit` to leave the document session.
 
 ## Contributing
